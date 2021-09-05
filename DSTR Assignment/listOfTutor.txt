@@ -1,0 +1,6 @@
+20200520154401,Elon Musk,20,5,2020,0,0,0,60,0102548544,Malaysia,KL001,Kuala Lumpur Tuition Centre,SC001,Science Basic,3
+20200520142501,Andrew Chang,20,5,2020,20,5,2020,20,0123456789,Best Apartment Bukit Jalil,KL001,Kuala Lumpur First,CHEM01,Chemistry Basic,4
+20200429213556,Christian Kwenly,29,4,2020,0,0,0,30,010329726,Parkhill Tower C-25-07,JB002,Johor Baru 2nd Centre,MA003,Math Adavnce 3,0
+20200419090024,Gloria Amoria,19,4,2020,15,1,2020,21,010235783,Endah Ria,KL002,Kuala Lumpuer Second Centre,EN002,English Beginners 02,1
+20200419085737,Bill Nye,19,4,2020,0,0,0,27,010481143,Parkhill C 20 05,KL001,First KL,SC001,Science Basics 01,1
+20200419072545,Wong Ling,19,4,2020,0,0,0,22,010114986,Endah Promenade C 17 07,KL001,First KL Centre,M001,Math Basic 01,1
